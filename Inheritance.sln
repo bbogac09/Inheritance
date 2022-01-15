@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{5A308FC3-3CA1-49C3-BC39-70C1ED0DCDA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{45DCB2A2-19E2-470E-B01F-5ECAE3F4C73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A308FC3-3CA1-49C3-BC39-70C1ED0DCDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A308FC3-3CA1-49C3-BC39-70C1ED0DCDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A308FC3-3CA1-49C3-BC39-70C1ED0DCDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A308FC3-3CA1-49C3-BC39-70C1ED0DCDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DCB2A2-19E2-470E-B01F-5ECAE3F4C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DCB2A2-19E2-470E-B01F-5ECAE3F4C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DCB2A2-19E2-470E-B01F-5ECAE3F4C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DCB2A2-19E2-470E-B01F-5ECAE3F4C73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A0DC47-AE33-47D7-93FD-1FFDDE5CD3B4}
+	EndGlobalSection
+EndGlobal
